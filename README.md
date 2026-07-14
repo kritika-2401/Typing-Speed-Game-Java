@@ -21,7 +21,7 @@ The application provides multiple test durations and text difficulty levels, hig
 
 ### Typing Test
 
-<img width="884" height="642" alt="image" src="https://github.com/user-attachments/assets/7c8915df-62a1-4e93-a1b4-7e2f431d5e3f" />
+<img width="884" height="640" alt="image" src="https://github.com/user-attachments/assets/47349b9f-ef4a-4306-aebb-8afa8e3dc85f" />
 
 
 ### Result Screen
