@@ -39,7 +39,7 @@ public class TypingProject {
     static void playBackgroundMusic() {
         try {
             AudioInputStream audio =
-                    AudioSystem.getAudioInputStream(new File("ramba_ho.wav"));
+                    AudioSystem.getAudioInputStream(new File("sounds/ramba_ho.wav"));
             bgClip = AudioSystem.getClip();
             bgClip.open(audio);
             bgClip.loop(Clip.LOOP_CONTINUOUSLY);
